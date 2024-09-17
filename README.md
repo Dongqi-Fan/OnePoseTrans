@@ -16,12 +16,12 @@ Current Pose-Guided Person Image Synthesis (PGPIS) methods depend heavily on lar
 
 # Environment
 
-```
+
 conda create -n oneposetrans python=3.10
 conda activate oneposetrans
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
 pip install -r requirements.txt
-```
+
 
 # Download
 
