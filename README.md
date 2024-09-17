@@ -2,9 +2,8 @@
 
 # OnePoseTrans: One-Shot Learning for Pose-Guided Person Image Synthesis in the Wild 🙎➡️🙆💁‍♀️🙋
 
-<div align="center">Dongqi Fan &nbsp&nbsp&nbsp Tao Chen &nbsp&nbsp&nbsp Mingjie Wang &nbsp&nbsp&nbsp Rui Ma &nbsp&nbsp&nbsp Qiang Tang
-
-<div align="center">Zili Yi &nbsp&nbsp&nbsp Qian Wang &nbsp&nbsp&nbsp Liang Chang
+<p align="center">Dongqi Fan&nbsp;&nbsp;&nbsp;Tao Chen&nbsp;&nbsp;&nbsp;Mingjie Wang&nbsp;&nbsp;&nbsp;Rui Ma&nbsp;&nbsp;&nbsp;Qiang Tang</p>
+<p align="center">Zili Yi&nbsp;&nbsp;&nbsp;Qian Wang&nbsp;&nbsp;&nbsp;Liang Chang</p>
 
 
 
@@ -16,12 +15,12 @@ Current Pose-Guided Person Image Synthesis (PGPIS) methods depend heavily on lar
 
 # Environment
 
-
+```
 conda create -n oneposetrans python=3.10
 conda activate oneposetrans
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
 pip install -r requirements.txt
-
+```
 
 # Download
 
