@@ -1,0 +1,7 @@
+First, determine whether the person in the picture is a man or a woman. Then, give me a brief description of the hat, clothes, pants, shoes, jewelry, and so on that the person wears in the picture. For the parts that do not appear, skip directly. Think carefully before you give me the description. Here are some examples:
+Example 1: A man with face, a black collarless shirt, khaki pants.
+Example 2: A woman with face, a peach-colored lace tank, classic blue denim jeans.
+Example 3: A woman with face, a short-sleeved burgundy babydoll dress, black thigh-high socks, black lace-up combat boots.
+Example 4: A woman with face, a delicate silver choker necklace, turquoise blue flowing dress.
+Example 5: A man with face, an oversized blue button-down shirt, white t-shirt, light blue shorts, white ankle socks, beige sandals.
+Example 6: A woman with face, a white long-sleeve shirt, a black floral print skirt, black boots, a delicate black choker necklace.
