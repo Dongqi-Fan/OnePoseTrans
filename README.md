@@ -275,9 +275,13 @@ Our implementation of **pipeline_stable_diffusion_xl_oneposetrans.py** builds up
 
 ## Cite
 If you find OnePoseTrans and our project useful, please cite our paper:
-
 ```bibtex
-
+@article{fan2024one,
+  title={One-Shot Learning for Pose-Guided Person Image Synthesis in the Wild},
+  author={Fan, Dongqi and Chen, Tao and Wang, Mingjie and Ma, Rui and Tang, Qiang and Yi, Zili and Wang, Qian and Chang, Liang},
+  journal={arXiv preprint arXiv:2409.09593},
+  year={2024}
+}
 ```
 
 If you have any questions please contact: dongqifan@std.uestc.edu.cn
