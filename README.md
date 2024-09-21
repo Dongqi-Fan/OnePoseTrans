@@ -175,7 +175,7 @@ python tool_utils
 --rgba_path /path/to/images_rgba
 ```
 
-Step 2. Generate descriptions, deepfashion or wpose
+Step 2. Generate descriptions, deepfashion or wpose (Or just use what we provided)
 
 ```
 cd MLLM
