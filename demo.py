@@ -41,6 +41,7 @@ SAM_CHECKPOINT_PATH = "models/sam_vit_h_4b8939.pth"
 
 # GroundingDINO
 GROUNDING_DINO_CHECKPOINT_PATH = "models/groundingdino_swint_ogc.pth"
+GROUNDING_DINO_CONFIG_PATH = "utils/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py"
 
 # LaMa
 lama_path = 'models/lama_fp32_1024.onnx'
