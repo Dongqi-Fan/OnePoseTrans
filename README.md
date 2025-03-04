@@ -1,6 +1,6 @@
 
 
-# OnePoseTrans: One-Shot Learning for Pose-Guided Person Image Synthesis in the Wild 🙎➡️🙆💁‍♀️🙋
+# [ICASSP 2025] OnePoseTrans: One-Shot Learning for Pose-Guided Person Image Synthesis in the Wild 🙎➡️🙆💁‍♀️🙋
 
 <p align="center">Dongqi Fan&nbsp;&nbsp;&nbsp;Tao Chen&nbsp;&nbsp;&nbsp;Mingjie Wang&nbsp;&nbsp;&nbsp;Rui Ma&nbsp;&nbsp;&nbsp;Qiang Tang</p>
 <p align="center">Zili Yi&nbsp;&nbsp;&nbsp;Qian Wang&nbsp;&nbsp;&nbsp;Liang Chang</p>
@@ -8,6 +8,16 @@
 
 
 Paper Link: https://arxiv.org/abs/2409.09593
+
+
+2025.3.4: (More Results)
+
+<img src="imgs/8.png" width="500" height="250"> 
+<img src="imgs/7.png" width="600" height="150">
+<img src="imgs/6.png" width="600" height="450">
+
+Gemini Template: Here are six pictures for you. The first one is an authentic picture, while the subsequent five are generated. Please kindly rate these five pictures from the perspectives of background consistency, facial consistency, and clothing consistency. The closer the resemblance to the real picture in terms of these aspects, the higher the score will be; on the contrary, the lower the resemblance, the lower the score. Please provide the score of these 5 images in the following format, no additional output is required: {score 1, score 2, score 3, score 4, score 5}. Please carefully understand my requirements before giving the answer. It must be the scores of the latter five pictures (with the score range from 0 to 5).
+
 
 # Abstract
 
