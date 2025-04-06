@@ -6,10 +6,6 @@
 <p align="center">Zili Yi&nbsp;&nbsp;&nbsp;Qian Wang&nbsp;&nbsp;&nbsp;Liang Chang</p>
 
 
-
-Paper Link: https://arxiv.org/abs/2409.09593
-
-
 2025.3.4: (More Results)
 
 <img src="imgs/8.png" width="500" height="250"> 
